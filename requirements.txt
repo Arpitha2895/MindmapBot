@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+requests
+python-dotenv
+deep-translator
+gTTS
+matplotlib
+networkx
